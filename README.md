@@ -13,7 +13,7 @@ Uma calculadora moderna com histórico de operações usando Hive e layout respo
 
 | Tela principal                    | Expressao                      | Resultado                      | Histórico                      |
 |-----------------------------------|--------------------------------|--------------------------------|--------------------------------|
-| ![](screenshots/telainicial.jpeg) | ![](screenshots/expressao.jpeg) | ![](screenshots/resultado.jpeg) | ![](screenshots/historico.jpeg) |
+| ![](lib/screenshots/telainicial.jpeg) | ![](screenshots/expressao.jpeg) | ![](screenshots/resultado.jpeg) | ![](screenshots/historico.jpeg) |
 
 ## 🚀 Tecnologias
 
