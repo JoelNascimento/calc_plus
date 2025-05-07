@@ -11,9 +11,9 @@ Uma calculadora moderna com histórico de operações usando Hive e layout respo
 
 ## 📸 Screenshots
 
-| Tela principal                   | Expressao                      | Resultado                      | Histórico                      |
-|----------------------------------|--------------------------------|--------------------------------|--------------------------------|
-| ![](screenshots/telainicial.png) | ![](screenshots/expressao.png) | ![](screenshots/resultado.png) | ![](screenshots/historico.png) |
+| Tela principal                    | Expressao                      | Resultado                      | Histórico                      |
+|-----------------------------------|--------------------------------|--------------------------------|--------------------------------|
+| ![](screenshots/telainicial.jpeg) | ![](screenshots/expressao.jpeg) | ![](screenshots/resultado.jpeg) | ![](screenshots/historico.jpeg) |
 
 ## 🚀 Tecnologias
 
